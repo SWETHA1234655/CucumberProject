@@ -1,0 +1,105 @@
+23:53:59.219 [main] INFO  - -----Starting Of Car Insurance-----
+23:54:02.339 [main] INFO  - Select Car Insurance
+23:54:18.512 [main] INFO  - -----Starting Of Health Insurance-----
+23:54:18.515 [main] INFO  - Select the Insuranceproduct
+23:54:22.191 [main] INFO  - Select the health insurance
+23:54:24.513 [main] INFO  - Hover the health insurance
+23:54:24.705 [main] INFO  - Print all the available plans in health insurance
+23:54:25.014 [main] INFO  - -----Ending Of Health Insurance-----
+23:54:35.893 [main] INFO  - -----Starting Of Travel Insurance-----
+23:54:35.899 [main] INFO  - Select Travel Insurance
+23:54:36.557 [main] INFO  - Select the country
+23:54:39.667 [main] INFO  - Click the next button
+23:54:39.987 [main] INFO  - Click start date
+23:54:40.528 [main] INFO  - Give the starting date
+23:54:40.846 [main] INFO  - Give the ending date
+23:54:41.309 [main] INFO  - Click the next button
+23:54:41.633 [main] INFO  - Total Number of people
+23:54:42.030 [main] INFO  - Click first person
+23:54:42.307 [main] INFO  - Select the age of First people
+23:54:42.567 [main] INFO  - Click  second person
+23:54:42.789 [main] INFO  - Select the age of First people
+23:54:43.037 [main] INFO  - Click the next button
+23:54:43.337 [main] INFO  - Choose No for premedical condition
+23:54:43.996 [main] INFO  - Select sortBy
+23:54:50.941 [main] INFO  - Choose premium low to high
+23:54:55.303 [main] INFO  - Select the first three plans
+23:54:55.582 [main] INFO  - -----Ending Of Travel Insurance-----
+23:56:40.697 [main] INFO  - -----Starting Of Car Insurance-----
+23:56:43.765 [main] INFO  - Select Car Insurance
+23:57:00.060 [main] INFO  - -----Starting Of Health Insurance-----
+23:57:00.070 [main] INFO  - Select the Insuranceproduct
+23:57:03.849 [main] INFO  - Select the health insurance
+23:57:05.698 [main] INFO  - Hover the health insurance
+23:57:06.919 [main] INFO  - Print all the available plans in health insurance
+23:57:07.396 [main] INFO  - -----Ending Of Health Insurance-----
+23:57:19.950 [main] INFO  - -----Starting Of Travel Insurance-----
+23:57:19.955 [main] INFO  - Select Travel Insurance
+23:57:20.574 [main] INFO  - Select the country
+23:57:23.473 [main] INFO  - Click the next button
+23:57:23.906 [main] INFO  - Click start date
+23:57:24.580 [main] INFO  - Give the starting date
+23:57:24.975 [main] INFO  - Give the ending date
+23:57:25.316 [main] INFO  - Click the next button
+23:57:25.607 [main] INFO  - Total Number of people
+23:57:25.937 [main] INFO  - Click first person
+23:57:26.167 [main] INFO  - Select the age of First people
+23:57:26.381 [main] INFO  - Click  second person
+23:57:26.671 [main] INFO  - Select the age of First people
+23:57:26.889 [main] INFO  - Click the next button
+23:57:27.102 [main] INFO  - Choose No for premedical condition
+23:57:27.490 [main] INFO  - Select sortBy
+23:57:34.464 [main] INFO  - Choose premium low to high
+23:57:38.743 [main] INFO  - Select the first three plans
+23:57:39.140 [main] INFO  - -----Ending Of Travel Insurance-----
+23:58:59.818 [main] INFO  - -----Starting Of Car Insurance-----
+23:59:02.875 [main] INFO  - Select Car Insurance
+23:59:06.208 [main] INFO  - Click the new car button
+23:59:06.370 [main] INFO  - Select the city
+23:59:07.974 [main] INFO  - Select Rto according to the city
+23:59:08.292 [main] INFO  - Select the car brand
+23:59:08.674 [main] INFO  - Select the car model
+23:59:08.995 [main] INFO  - Select the fuel type
+23:59:09.608 [main] INFO  - Select the car variant
+23:59:10.237 [main] INFO  - Provide the username
+23:59:10.832 [main] INFO  - Provide Emailid of user
+23:59:11.299 [main] INFO  - Provide Phone number
+23:59:11.668 [main] INFO  - Capture the error message if anything is incorrect
+23:59:11.756 [main] INFO  - -----Ending Of Car Insurance-----
+23:59:23.407 [main] INFO  - -----Starting Of Health Insurance-----
+23:59:23.412 [main] INFO  - Select the Insuranceproduct
+23:59:27.596 [main] INFO  - Select the health insurance
+23:59:29.847 [main] INFO  - Hover the health insurance
+23:59:30.856 [main] INFO  - Print all the available plans in health insurance
+23:59:31.384 [main] INFO  - -----Ending Of Health Insurance-----
+23:59:42.589 [main] INFO  - -----Starting Of Travel Insurance-----
+23:59:42.594 [main] INFO  - Select Travel Insurance
+23:59:43.352 [main] INFO  - Select the country
+23:59:46.672 [main] INFO  - Click the next button
+23:59:46.955 [main] INFO  - Click start date
+23:59:47.417 [main] INFO  - Give the starting date
+23:59:47.655 [main] INFO  - Give the ending date
+23:59:47.946 [main] INFO  - Click the next button
+23:59:48.195 [main] INFO  - Total Number of people
+23:59:48.510 [main] INFO  - Click first person
+23:59:48.721 [main] INFO  - Select the age of First people
+23:59:48.959 [main] INFO  - Click  second person
+23:59:49.194 [main] INFO  - Select the age of First people
+23:59:49.368 [main] INFO  - Click the next button
+23:59:49.534 [main] INFO  - Choose No for premedical condition
+23:59:49.892 [main] INFO  - Select sortBy
+23:59:56.700 [main] INFO  - Choose premium low to high
+23:59:56.939 [main] INFO  - Select the first three plans
+00:00:01.190 [main] INFO  - -----Ending Of Travel Insurance-----
+09:57:40.623 [main] INFO  - -----Starting Of Car Insurance-----
+09:57:43.649 [main] INFO  - Select Car Insurance
+09:57:46.823 [main] INFO  - Click the new car button
+09:57:46.902 [main] INFO  - Select the city
+09:57:46.902 [main] INFO  - Select Rto according to the city
+09:57:46.905 [main] INFO  - Select the car brand
+09:58:17.734 [main] INFO  - -----Starting Of Health Insurance-----
+09:58:17.765 [main] INFO  - Select the Insuranceproduct
+09:58:20.976 [main] INFO  - Select the health insurance
+09:58:23.725 [main] INFO  - Hover the health insurance
+09:58:23.886 [main] INFO  - Print all the available plans in health insurance
+09:58:24.023 [main] INFO  - -----Ending Of Health Insurance-----

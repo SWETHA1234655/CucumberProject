@@ -1,0 +1,15 @@
+12:03:47.816 [main] INFO  - Click start date
+12:03:48.051 [main] INFO  - Give the starting date
+12:03:48.280 [main] INFO  - Give the ending date
+12:03:48.594 [main] INFO  - Click the next button
+12:03:49.176 [main] INFO  - Total Number of people
+12:03:49.359 [main] INFO  - Click first person
+12:03:49.558 [main] INFO  - Select the age of First people
+12:03:49.743 [main] INFO  - Click  second person
+12:03:49.942 [main] INFO  - Select the age of First people
+12:03:50.088 [main] INFO  - Click the next button
+12:03:50.570 [main] INFO  - Choose No for premedical condition
+12:03:51.296 [main] INFO  - Select sortBy
+12:03:54.856 [main] INFO  - Choose premium low to high
+12:03:55.279 [main] INFO  - Select the first three plans
+12:03:59.458 [main] INFO  - -----Ending Of Travel Insurance-----

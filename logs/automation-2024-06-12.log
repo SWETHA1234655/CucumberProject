@@ -1,0 +1,54 @@
+22:23:00.454 [main] INFO  - Select the first three plans
+22:23:04.964 [main] INFO  - -----Ending Of Travel Insurance-----
+22:34:06.240 [main] INFO  - -----Starting Of Car Insurance-----
+22:34:06.400 [main] INFO  - Select Car Insurance
+22:34:09.995 [main] INFO  - Click the new car button
+22:34:10.143 [main] INFO  - Select the city
+22:34:10.668 [main] INFO  - Select Rto according to the city
+22:34:11.682 [main] INFO  - Select the car brand
+22:34:12.432 [main] INFO  - Select the car model
+22:34:12.782 [main] INFO  - Select the fuel type
+22:34:13.362 [main] INFO  - Select the car variant
+22:34:13.984 [main] INFO  - Provide the username
+22:34:14.459 [main] INFO  - Provide Emailid of user
+22:34:14.835 [main] INFO  - Provide Phone number
+22:34:15.128 [main] INFO  - Capture the error message if anything is incorrect
+22:34:15.245 [main] INFO  - -----Ending Of Car Insurance-----
+22:34:27.965 [main] INFO  - -----Starting Of Health Insurance-----
+22:34:28.008 [main] INFO  - Select the Insuranceproduct
+22:34:31.742 [main] INFO  - Select the health insurance
+22:34:34.493 [main] INFO  - Hover the health insurance
+22:34:34.783 [main] INFO  - Print all the available plans in health insurance
+22:34:35.224 [main] INFO  - -----Ending Of Health Insurance-----
+22:34:48.001 [main] INFO  - -----Starting Of Travel Insurance-----
+22:34:48.048 [main] INFO  - Select Travel Insurance
+22:34:48.671 [main] INFO  - Select the country
+22:34:52.091 [main] INFO  - Click the next button
+22:34:52.425 [main] INFO  - Click start date
+22:34:53.021 [main] INFO  - Give the starting date
+22:34:53.434 [main] INFO  - Give the ending date
+22:34:53.766 [main] INFO  - Click the next button
+22:34:54.125 [main] INFO  - Total Number of people
+22:34:54.432 [main] INFO  - Click first person
+22:34:54.662 [main] INFO  - Select the age of First people
+22:34:54.876 [main] INFO  - Click  second person
+22:34:55.100 [main] INFO  - Select the age of First people
+22:34:55.303 [main] INFO  - Click the next button
+22:34:55.609 [main] INFO  - Choose No for premedical condition
+22:34:56.237 [main] INFO  - Select sortBy
+22:34:59.052 [main] INFO  - Choose premium low to high
+22:34:59.666 [main] INFO  - Select the first three plans
+22:35:04.080 [main] INFO  - -----Ending Of Travel Insurance-----
+22:37:01.756 [main] INFO  - -----Starting Of Car Insurance-----
+22:37:01.830 [main] INFO  - Select Car Insurance
+22:37:05.868 [main] INFO  - Click the new car button
+22:37:06.578 [main] INFO  - Select the city
+22:37:07.186 [main] INFO  - Select Rto according to the city
+22:37:08.093 [main] INFO  - Select the car brand
+22:37:08.615 [main] INFO  - Select the car model
+22:37:09.081 [main] INFO  - Select the fuel type
+22:37:09.593 [main] INFO  - Select the car variant
+22:37:10.374 [main] INFO  - Provide the username
+22:37:10.984 [main] INFO  - Provide Emailid of user
+22:37:11.571 [main] INFO  - Provide Phone number
+22:37:12.060 [main] INFO  - Capture the error message if anything is incorrect
